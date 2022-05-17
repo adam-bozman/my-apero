@@ -12,14 +12,15 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Thoughts
+  title: A Digital Garden
   description: |
-    This is a fully featured blog that supports categories,
-    tags, series, and pagination. Even this sidebar offers 
-    a ton of customizations.
+  
+    This page includes a continuum of my abstract and unpublished thoughts.  
     
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
+    I emulate and follow the ethos of Maggie Appleton's [Digital Garden](https://maggieappleton.com/garden-history).
+    
+#    Check out the _index.md file in the /blog folder 
+#    to edit this content. 
   author: "The R Markdown Team @RStudio"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
