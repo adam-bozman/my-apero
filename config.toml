@@ -78,21 +78,21 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/adam-bozman"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
+      icon      = "kaggle" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://www.kaggle.com/adambozman"
   [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://www.linkedin.com/in/adam-bozman-65218b73/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/adam_bozman"
   [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=kI-_l9AAAAAJ&hl=en&oi=ao"
 
 [taxonomies]
   category = "categories"
