@@ -1,7 +1,7 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+title: "Adam Bozman"
+subtitle: "Finance PhD and AI Enthusiast @ WSU"
+description: "I am a doctoral candidate in the Carson College of Business at Washington State University where my research focuses on empirical asset pricing, behavioral topics, emerging markets, and some monetary policy.  My goal is to aid in the understanding of individual decision making as well as investor biases, so we can better predict market reactions and necessary regulation."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
