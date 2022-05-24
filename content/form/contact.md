@@ -1,7 +1,7 @@
 ---
 title: Contact
 name: Contact Me
-description: "If you're interested in connecting, it is best to reach me through the university or other socials.  Should you have any immediate inquiries, I've included a **contact** form here. Be sure to include your email address, and I'll get back to you as soon as I can!"
+description: "If you're interested in connecting, it's best to reach me through the university or other socials.  Should you have any immediate inquiries, I've included a **contact** form here. Be sure to include your email address, and I'll get back to you as soon as I can!"
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
