@@ -1,7 +1,7 @@
 ---
 title: Contact
-name: Contact Us Form
-description: "This template has a **contact-us** form built right in. All you need to do is add a valid recipient email address or form-id to the front matter of this form page and you're ready to receive submissions."
+name: Contact Me
+description: "If you're interested in connecting, it is best to reach me through the university or other socials.  Should you have any immediate inquiries, I've included a **contact** form here. Be sure to include your email address, and I'll get back to you as soon as I can!"
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
@@ -10,7 +10,7 @@ layout: split-right # split-right or split-left
 submit_button_label: Send Message
 show_social_links: true # specify social accounts in site config
 show_poweredby_formspree: true
-formspree_form_id: your@email.here
+formspree_form_id: adam.bozman@wsu.edu
 ---
 
 ** Contact page don't contain a body, just the front matter above.
