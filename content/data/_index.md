@@ -1,5 +1,5 @@
 ---
-title: Talks that Last
+title: A Collection of Data
 description: |
   This is a list for your talks, workshops, or other events with a time, date, and place.
 author: "The R Markdown Team @RStudio"
@@ -8,7 +8,7 @@ show_author_byline: true
 show_post_date: true
 show_post_time: true
 # for listing page layout
-layout: list # list, list-sidebar
+layout: list-sidebar # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
