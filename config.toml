@@ -1,4 +1,4 @@
-baseURL = "https://www.adambozman.com//"
+baseURL = "https://www.adambozman.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "The personal website of Adam Bozman"
