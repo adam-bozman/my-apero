@@ -1,7 +1,7 @@
 baseURL = "https://www.adambozman.com/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "The personal website of Adam Bozman"
+title = "Adam Bozman"
 author = "Adam Bozman"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -102,7 +102,7 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Adam"
     url = "/about/"
     weight = 1
   [[menu.header]]
