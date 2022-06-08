@@ -12,8 +12,7 @@ show_social_links: true # specify social accounts in site config
 show_poweredby_formspree: true
 formspree_form_id: <
 action="https://formspree.io/f/meqndaen"
-method="POST"
->
+method="POST">
 ---
 
 ** Contact page don't contain a body, just the front matter above.
