@@ -3,7 +3,7 @@ title: A Blog
 description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+author: "Adam Bozman"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -15,13 +15,13 @@ sidebar:
   title: A Digital Garden
   description: |
   
-    This page includes a continuum of my abstract and unpublished thoughts.  
+    I wanted a space for my abstract and unpublished thoughts - something of a working draft site, which this blog now is.  I've had a number of colleagues and friends offer that journaling is both productive and theraputic.  Therefore, I mostly write about potential research topics and things I find important - both postive and negative.
     
-    I emulate and follow the ethos of Maggie Appleton's [Digital Garden](https://maggieappleton.com/garden-history).
+    I try to emulate and follow the ethos of Maggie Appleton's [Digital Garden](https://maggieappleton.com/garden-history).
     
 #    Check out the _index.md file in the /blog folder 
 #    to edit this content. 
-  author: "The R Markdown Team @RStudio"
+  author: "Adam Bozman"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: false # show ad container
