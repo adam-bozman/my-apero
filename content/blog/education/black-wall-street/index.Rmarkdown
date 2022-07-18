@@ -1,7 +1,7 @@
 ---
-title: "Value Proposition"
+title: "Black Wall Street"
 weight: 3
-subtitle: "In marketing, the value proposition is an innovation, service, or feature intended to make a company or product differentiable and attractive to customers.  In education, it has a similar function."
+subtitle: "Consequences of Myopic Tendencies - An Example from Tulsa, OK"
 excerpt: ""
 date: 2022-07-03
 draft: false
