@@ -102,17 +102,17 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Adam"
+    title = "About Me"
     url = "/about/"
     weight = 1
   [[menu.header]]
     name = "Blog"
-    title = "Blog"
+    title = "My Blog"
     url = "/blog/"
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "My Projects"
     url = "/project/"
     weight = 3
   [[menu.header]]
@@ -120,6 +120,11 @@ enableEmoji = true
     title = "My Data"
     url = "/data/"
     weight = 4
+  [[menu.header]]
+    name = "Courses"
+    title = "My Courses"
+    url = "/courses/"
+    weight = 5
     
   # Configure footer  
   [[menu.footer]]
