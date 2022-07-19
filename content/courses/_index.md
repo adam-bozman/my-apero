@@ -1,8 +1,8 @@
 ---
 title: Courses Taught by Me
 description: |
-  This is a curated list of continuously collected data, primarily scraped with [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).  I use these for my own research, but all are welcome to explore and utilize this resource - after all, information should be free.  These are built out using [Django](https://www.djangoproject.com/) and [Celery](https://docs.celeryq.dev/en/stable/index.html).  
-author: "The R Markdown Team @RStudio"
+  Undergraduate courses taught at Washington State University.  
+author: "Adam Bozman"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
