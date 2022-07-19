@@ -20,8 +20,8 @@ sidebar:
     
     Check out the _index.md file in the /talk folder 
     to edit this content. 
-  author: "The R Markdown Team @RStudio"
-  text_link_label: Subscribe via RSS
+  author: "Adam Bozman"
+  text_link_label: # Subscribe via RSS
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container
 

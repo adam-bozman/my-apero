@@ -1,14 +1,14 @@
 ---
-title: "A campfire"
-subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
-date: 2021-01-12
-date_end: "2021-01-13"
+title: "Corporate Finance Seminar"
+subtitle: "Fall 2022 @ WSU"
+excerpt: "Talks included from a doctoral-level finance seminar covering advanced topics in corporate finance."
+date: 2022-09-01
+date_end: "2022-12-17"
 show_post_time: false
 event: "rstudio::global(2021)"
 event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+author: "Adam Bozman"
+location: "Pullman, WA"
 draft: false
 # layout options: single, single-sidebar
 layout: single
