@@ -1,42 +1,35 @@
 ---
-title: A Collection of Data
-description: |
-  This is a curated list of continuously collected data, primarily scraped with [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).  I use these for my own research, but all are welcome to explore and utilize this resource - after all, information should be free.  These are built out using [Django](https://www.djangoproject.com/) and [Celery](https://docs.celeryq.dev/en/stable/index.html).  
+title: My Data
+description: "Included here is a collection of data included in research."
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true
-show_post_date: true
-show_post_time: true
+show_post_date: false
 # for listing page layout
-layout: list # list, list-sidebar
+layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Talks that Last
+  title: A Sidebar for Your Projects
   description: |
-    This is a list for your talks, workshops, or 
-    other events with a time, date, and place. 
-    Even this sidebar offers a ton of customizations.
-    
-    Check out the _index.md file in the /talk folder 
-    to edit this content. 
+    Projects can be anything!
+    Check out the _index.md file in the /project folder 
+    to edit this content.
   author: "The R Markdown Team @RStudio"
-  text_link_label: Subscribe via RSS
-  text_link_url: /talk/index.xml
+  text_link_label: ""
+  text_link_url: ""
   show_sidebar_adunit: false # show ad container
 
-# set up common front matter for all pages inside blog/
-cascade:
-  author: "The R Markdown Team @RStudio"
+# set up common front matter for all individual pages inside project/
+cascade:    
   show_author_byline: true
   show_post_date: true
-  show_post_time: true
   show_disqus_comments: false # see disqusShortname in site config
-  # for single-sidebar layout
+  # for single-sidebar layout only
   sidebar:
-    text_link_label: View recent talks
-    text_link_url: /talk/
+    text_link_label: View all projects
+    text_link_url: /project/
     show_sidebar_adunit: false # show ad container
 ---
 
-** No content below YAML for the talk _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside talk/. You may still override any of these by changing them in a page's front matter.**
+** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
