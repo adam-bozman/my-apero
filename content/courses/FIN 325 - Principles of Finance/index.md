@@ -1,14 +1,14 @@
 ---
-title: "A campfire"
-subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
+title: "Finance 325"
+subtitle: "Principles of Finance"
+excerpt: "An introductory Finance course for business administration majors at Washington State University."
 date: 2021-01-12
 date_end: "2021-01-13"
 show_post_time: false
 event: "rstudio::global(2021)"
 event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+author: "Adam Bozman"
+location: "Pullman, WA, USA"
 draft: false
 # layout options: single, single-sidebar
 layout: single
