@@ -1,7 +1,7 @@
 ---
 title: My Data
-description: "Included here is a collection of data included in research."
-author: "The R Markdown Team @RStudio"
+description: "An updated list of all data and code relavent to current publications in peer-reviewed journals."
+author: "Adam Bozman"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
