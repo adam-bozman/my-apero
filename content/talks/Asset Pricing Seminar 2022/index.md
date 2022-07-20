@@ -15,10 +15,10 @@ layout: single
 categories:
 - workshop
 links:
-- icon: door-open
+- icon: file-powerpoint
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
+  url: https://adamstalks.netlify.app/2022-asset-pricing-seminar/example-slides/
 - icon: github
   icon_pack: fab
   name: code

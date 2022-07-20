@@ -15,10 +15,10 @@ layout: single
 categories:
 - workshop
 links:
-- icon: door-open
+- icon: file-powerpoint
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
+  name: slides
+  url: https://adamscourses.netlify.app/2022-fin325/example-slides/
 - icon: github
   icon_pack: fab
   name: code
