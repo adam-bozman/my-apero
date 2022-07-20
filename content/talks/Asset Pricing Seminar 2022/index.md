@@ -17,7 +17,7 @@ categories:
 links:
 - icon: file-powerpoint
   icon_pack: fas
-  name: website
+  name: slides
   url: https://adamstalks.netlify.app/2022-asset-pricing-seminar/example-slides/
 - icon: github
   icon_pack: fab
