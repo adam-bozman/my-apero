@@ -121,9 +121,9 @@ enableEmoji = true
     url = "/data/"
     weight = 4
   [[menu.header]]
-    name = "Courses"
-    title = "My Courses"
-    url = "/courses/"
+    name = "Teaching"
+    title = "My Teaching"
+    url = "/Teaching/"
     weight = 5
   [[menu.header]]
     name = "Talks"
