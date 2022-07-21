@@ -24,11 +24,12 @@ links:
   name: code
   url: https://github.com/apreshill/bakeoff
 ---
-
-{{< here >}}
-
-I'm really excited to give this talk! Stay tuned for video and slides.
+### Links to all presentation content for FIN 596 - Fall 2022
 
 --- 
 
-## Week 1:
+## Week 1
+
+[Slides](https://adamstalks.netlify.app/2022-asset-pricing-seminar/example-slides/)
+
+## Week 2
