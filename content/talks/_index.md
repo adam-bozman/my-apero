@@ -5,7 +5,7 @@ description: |
 author: "Adam Bozman"
 show_post_thumbnail: true
 thumbnail_left: true
-show_author_byline: false
+show_author_byline: true
 show_post_date: true
 show_post_time: true
 # for listing page layout
@@ -13,8 +13,8 @@ layout: list # list, list-sidebar
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Alison Hill"
-  show_author_byline: false
+  author: "Adam Bozman"
+  show_author_byline: true
   show_post_date: true
   show_post_time: true
   show_comments: false # see site config to choose Disqus or Utterances

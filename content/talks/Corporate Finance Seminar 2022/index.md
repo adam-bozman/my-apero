@@ -2,8 +2,8 @@
 title: "Corporate Finance Seminar"
 subtitle: "Fall 2022 @ WSU"
 excerpt: "Talks included from a doctoral-level finance seminar covering advanced topics in corporate finance."
-date: 2022-09-01
-date_end: "2022-12-17"
+date: 2021-09-01
+date_end: "2021-12-17"
 show_post_time: false
 event: "rstudio::global(2021)"
 event_url: https://global.rstudio.com
