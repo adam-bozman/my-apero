@@ -7,19 +7,10 @@ date: 2022-07-03
 draft: false
 ---
 
-## Opportunity Cost(s)
+## Motivation
 
 ---
 
-## Motivation?
-### Career Orientation
-### Alternatives
-### Rising Costs
-### Intrinsic Value
----
+## Systemic Violence
 
-## Diminishing Returns
-
----
-
-## (Un)biased Reflection
+### Anomosity Toward Progress
