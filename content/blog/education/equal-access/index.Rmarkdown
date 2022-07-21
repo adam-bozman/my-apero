@@ -7,7 +7,7 @@ date: 2022-07-03
 draft: false
 ---
 
-## Fun Links
+## Some Fun Links
 
 ### The UN Investigation
 

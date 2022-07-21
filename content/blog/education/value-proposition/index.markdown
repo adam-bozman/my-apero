@@ -12,10 +12,15 @@ draft: false
 ---
 
 ## Motivation?
+
 ### Career Orientation
+
 ### Alternatives
+
 ### Rising Costs
+
 ### Intrinsic Value
+
 ---
 
 ## Diminishing Returns
