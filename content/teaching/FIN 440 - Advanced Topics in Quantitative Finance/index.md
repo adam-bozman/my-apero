@@ -1,6 +1,6 @@
 ---
-title: "Finance 440"
-subtitle: "Advanced Topics in Quantitative"
+title: "WSU | Finance 440"
+subtitle: "Advanced Topics in Quantitative Finance"
 excerpt: "An advanced course for finance majors at Washington State University - covering topics in financial engineering, forecasting, alternative investments, and the required competency in R and Python to succeed with these."
 date: 2021-01-12
 date_end: "2021-01-13"
