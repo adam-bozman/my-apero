@@ -15,16 +15,16 @@ layout: single
 categories:
 - workshop
 links:
-- icon: file-powerpoint
+- icon: window-restore
   icon_pack: fas
-  name: slides
-  url: https://adamstalks.netlify.app/2022-asset-pricing-seminar/example-slides/
+  name: website
+  url: https://wsuassetpricing.netlify.app/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://github.com/adam-bozman/wsuassetpricing
 ---
-### Links to all presentation content for FIN 596 - Fall 2022
+### A Course Description
 --- 
 
 ## Week 1

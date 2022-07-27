@@ -1,5 +1,5 @@
 ---
-title: "Finance 325"
+title: "WSU | Finance 325"
 subtitle: "Principles of Finance"
 excerpt: "An introductory Finance course for business administration majors at Washington State University."
 date: 2021-01-12
@@ -15,14 +15,14 @@ layout: single
 categories:
 - workshop
 links:
-- icon: file-powerpoint
+- icon: window-restore
   icon_pack: fas
-  name: slides
-  url: https://adamscourses.netlify.app/2022-fin325/example-slides/
+  name: website
+  url: https://wsufin325.netlify.app/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://github.com/adam-bozman/wsufin325
 ---
 
 {{< here >}}
