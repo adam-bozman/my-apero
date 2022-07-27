@@ -11,7 +11,7 @@ link_list:
 - name: Sabbatical
   url: https://sabbatical.wine/
 - name: Philosophy
-  url: https://plato.stanford.edu/entries/baudrillard/
+  url: https://www.britannica.com/biography/Antonio-Gramsci
 - name: Democracy
   url: https://en.wikipedia.org/wiki/Juan_Guaid%C3%B3
 ---
