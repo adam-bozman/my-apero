@@ -15,21 +15,17 @@ layout: single
 categories:
 - workshop
 links:
-- icon: file-powerpoint
-  icon_pack: fas
-  name: slides
-  url: https://adamstalks.netlify.app/2022-asset-pricing-seminar/example-slides/
 - icon: github
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
 ---
-### Links to all presentation content for FIN 596 - Fall 2022
+### Links to all presentations and content for FIN 596 - Fall 2022
 
 --- 
 
-## Week 1
+## Political Capital and Moral Hazard
 
-[Slides](https://adamstalks.netlify.app/2022-asset-pricing-seminar/example-slides/)
+[Open Slides](https://adamstalks.netlify.app/2022-asset-pricing-seminar/example-slides/)
 
 ## Week 2
