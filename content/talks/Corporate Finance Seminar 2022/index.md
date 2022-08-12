@@ -18,14 +18,14 @@ links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://github.com/adam-bozman/wsucorporatefinance
 ---
-### Links to all presentations and content for FIN 596 - Fall 2022
+## Links to all presentations and content for FIN 596 - Fall 2022
 
 --- 
 
-## Political Capital and Moral Hazard
+### Political Capital and Moral Hazard
 
-[Open Slides](https://adamstalks.netlify.app/2022-asset-pricing-seminar/example-slides/)
+[Open Slides](https://wsucorporatefinance.netlify.app/moral-hazard/)
 
-## Week 2
+### Week 2

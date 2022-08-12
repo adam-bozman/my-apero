@@ -15,18 +15,16 @@ layout: single
 categories:
 - workshop
 links:
-- icon: window-restore
-  icon_pack: fas
-  name: website
-  url: https://wsuassetpricing.netlify.app/
 - icon: github
   icon_pack: fab
   name: code
   url: https://github.com/adam-bozman/wsuassetpricing
 ---
-### A Course Description
+## Links to all presentations and content for FIN 596 - Fall 2022
 --- 
 
-## Week 1
+### Week 1
 
-## Week 2 
+
+
+### Week 2 
