@@ -25,6 +25,12 @@ links:
   url: https://github.com/adam-bozman/wsufin325
 ---
 
-{{< here >}}
+### Links to all presentation and content for WSU FIN 325 - Summer 2023.
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+--- 
+
+Sylabus
+
+---
+
+Schedule
