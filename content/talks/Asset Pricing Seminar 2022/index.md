@@ -23,8 +23,9 @@ links:
 ## Links to all presentations and content for FIN 596 - Fall 2022
 --- 
 
-### Week 1
+[Example Slides](https://wsuassetpricing.netlify.app/example/)
 
+### Week 1
 
 
 ### Week 2 
