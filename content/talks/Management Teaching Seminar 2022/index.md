@@ -21,11 +21,11 @@ links:
   url: https://github.com/adam-bozman/wsumanagementteaching
 ---
 ## Links to all presentations and content for BA 590 - Fall 2022
-
 --- 
+
+[Example Slides](https://wsumanagementteaching.netlify.app/example/)
 
 ### Week 1
 
-[Open Slides](https://wsucorporatefinance.netlify.app/moral-hazard/)
 
 ### Week 2
