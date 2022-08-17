@@ -23,17 +23,16 @@ links:
   url: https://github.com/apreshill/bakeoff
 ---
 
+![Twitter Sentimant Analyzer](twitter_logo.png)
+
+---
+
 ## Building a Web Framework
 
 As a finance PhD, I’m often irrationally irritated by my restriction in publishable coding languages.  In my experience, SAS and Python are the most commonly accepted for any sort of statistical or technical analysis in the field.  While I’ve done my best to adopt SAS, it still feels like nothing more than a remnant of generations past – something that while not quite as clunky as SPSS, still offers little adaptability and customization.  I do understand the need for reproducibility, which is why I believe that any journal calculations should be done in an open-source, object-oriented language – something available to the masses.  
 
 While I’ve been restricted to Python (and some SAS) for most of my academic work, I regularly dabble in other scripting languages that have more breadth and personalization to them.  For example, this website is built using primarily R and Hugo.  For this reason, I was very excited to see earlier this month the introduction of _Shiny for Python_, an adaptation to Shiny in R.  
 
----
-
-![Twitter Sentimant Analyzer](twitter_logo.png)
-
----
 
 ## Shiny for Python | Twitter Sentiment
 
