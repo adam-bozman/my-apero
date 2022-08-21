@@ -26,6 +26,3 @@ links:
 [Example Slides](https://wsumanagementteaching.netlify.app/example/)
 
 ### Week 1
-
-
-### Week 2
