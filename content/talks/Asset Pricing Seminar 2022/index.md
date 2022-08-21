@@ -23,9 +23,14 @@ links:
 ## Links to all presentations and content for FIN 596 - Fall 2022
 --- 
 
-[Example Slides](https://wsuassetpricing.netlify.app/example/)
 
-### Week 1
+### Mutual Fund Performance
+
+[Slide Deck](https://wsuassetpricing.netlify.app/mutual-fund-performance/)
+
+[Original Article](https://wsuassetpricing.netlify.app/files/mutual-fund-performance.pdf)
+
+[Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/mutual-fund-performance)
 
 
 ### Week 2 
