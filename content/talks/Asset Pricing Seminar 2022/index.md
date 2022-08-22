@@ -33,4 +33,10 @@ links:
 [Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/mutual-fund-performance)
 
 
-### Week 2 
+### Insider Trading and Contrarian Beliefs
+
+[Slide Deck](https://wsuassetpricing.netlify.app/insider-trades-contrarian/)
+
+[Original Article](https://wsuassetpricing.netlify.app/files/insider-trades-contrarian.pdf)
+
+[Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/insider-trades-contrarian)
