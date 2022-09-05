@@ -29,5 +29,6 @@ Realistically, any paper that the Fed releases is worth reading.  Still, the con
 
 Additionally, in May Toni Whithed and others published a sort of [ad hoc paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4112644) that examines the impact a CBDC may have on commercial banking, federal lending, and 'frictions and synergies'. 
 
+
 ---
 

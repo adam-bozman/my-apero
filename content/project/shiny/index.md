@@ -27,6 +27,7 @@ links:
 
 ---
 
+
 ## Building a Web Framework
 
 As a finance PhD, I’m often irrationally irritated by my restriction in publishable coding languages.  In my experience, SAS and Python are the most commonly accepted for any sort of statistical or technical analysis in the field.  While I’ve done my best to adopt SAS, it still feels like nothing more than a remnant of generations past – something that while not quite as clunky as SPSS, still offers little adaptability and customization.  I do understand the need for reproducibility, which is why I believe that any journal calculations should be done in an open-source, object-oriented language – something available to the masses.  
@@ -45,3 +46,4 @@ This "Twitter Sentiment Analyzer" project is an initial application of Shiny in 
 This endeavor by RStudio seems to be the next step in their coming October rebrand.  RStudio will be rebranded as [Posit](https://www.rstudio.com/blog/rstudio-is-becoming-posit/), an extension of their current IDE to what they call “A Single Home for R & Python”.  This rebrand is part of a broader expansion that appears to be happening.  Recently, RStudio announced [Quarto](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/), a “scientific and technical publishing system” very similar to RMarkdown.  They’re also extending the platform to Julia and other languages as they transform from the default home for R to a completer and more purposeful IDE for statisticians and developers.  
 
 > _I do have additional thoughts on the blend of RStudio and Python [here](/blog/2022-08-15-posit/).  For me, and I imagine for anyone frequently working with data, this is a very interesting time._
+
