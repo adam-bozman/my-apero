@@ -28,6 +28,11 @@ links:
 
 [Open Slides](https://wsucorporatefinance.netlify.app/moral-hazard/)
 
+[Slide Deck](https://wsucorporatefinance.netlify.app/moral-hazard/)
+
+[Github](https://github.com/adam-bozman/wsucorporatefinance/tree/main/moral-hazard)
+
+
 ### Bankruptcy Code & Resolution
 
 [Original Article](https://wsucorporatefinance.netlify.app/files/bankruptcy-resolution.pdf)
@@ -35,6 +40,7 @@ links:
 [Slide Deck](https://wsucorporatefinance.netlify.app/bankruptcy-resolution/)
 
 [Github](https://github.com/adam-bozman/wsucorporatefinance/tree/main/bankruptcy-resolution)
+
 
 ### The Politics of Financial Development in the 20th Century
 
