@@ -40,3 +40,10 @@ links:
 [Original Article](https://wsuassetpricing.netlify.app/files/insider-trades-contrarian.pdf)
 
 [Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/insider-trades-contrarian)
+
+
+### Literature Review
+
+[Slide Deck](https://wsuassetpricing.netlify.app/literature-review/)
+
+[Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/literature-review)
