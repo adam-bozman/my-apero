@@ -47,3 +47,12 @@ links:
 [Slide Deck](https://wsuassetpricing.netlify.app/literature-review/)
 
 [Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/literature-review)
+
+
+### Listening in on investors' thoughts and conversations 
+
+[Slide Deck](https://wsuassetpricing.netlify.app/investors-thoughts/)
+
+[Original Article](https://wsuassetpricing.netlify.app/files/investors-thoughts.pdf)
+
+[Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/investors-thoughts)
