@@ -56,3 +56,12 @@ links:
 [Original Article](https://wsuassetpricing.netlify.app/files/investors-thoughts.pdf)
 
 [Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/investors-thoughts)
+
+
+### Crises and Political Radicalization 
+
+[Slide Deck](https://wsuassetpricing.netlify.app/crises-and-political-radicalization/)
+
+[Original Article](https://wsuassetpricing.netlify.app/files/crises-and-political-radicalization.pdf)
+
+[Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/crises-and-political-radicalization)
