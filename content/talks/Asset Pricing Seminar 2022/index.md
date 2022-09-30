@@ -65,3 +65,12 @@ links:
 [Original Article](https://wsuassetpricing.netlify.app/files/crises-and-political-radicalization.pdf)
 
 [Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/crises-and-political-radicalization)
+
+
+### Social networks and markets 
+
+[Slide Deck](https://wsuassetpricing.netlify.app/game-on/)
+
+[Original Article](https://wsuassetpricing.netlify.app/files/game-on.pdf)
+
+[Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/game-on)

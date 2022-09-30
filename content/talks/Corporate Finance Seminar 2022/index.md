@@ -50,3 +50,12 @@ links:
 
 [Github](https://github.com/adam-bozman/wsucorporatefinance/tree/main/financial-development)
 
+
+### The Determinants of Corporate Borrowing 
+
+[Original Article](https://wsucorporatefinance.netlify.app/files/corporate-borrowing.pdf)
+
+[Slide Deck](https://wsucorporatefinance.netlify.app/corporate-borrowing/)
+
+[Github](https://github.com/adam-bozman/wsucorporatefinance/tree/main/corporate-borrowing)
+
