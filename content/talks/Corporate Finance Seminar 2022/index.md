@@ -20,6 +20,7 @@ links:
   name: code
   url: https://github.com/adam-bozman/wsucorporatefinance
 ---
+
 ## Links to all presentations and content for FIN 596 - Fall 2022
 
 --- 
