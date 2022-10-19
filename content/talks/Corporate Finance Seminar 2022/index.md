@@ -59,3 +59,13 @@ links:
 
 [Github](https://github.com/adam-bozman/wsucorporatefinance/tree/main/corporate-borrowing)
 
+
+### Secured Lending & Default Risk
+
+[Original Article](https://wsucorporatefinance.netlify.app/files/default-risk.pdf)
+
+[Slide Deck](https://wsucorporatefinance.netlify.app/default-risk/)
+
+[Github](https://github.com/adam-bozman/wsucorporatefinance/tree/main/default-risk)
+
+
