@@ -23,6 +23,4 @@ links:
 ## Links to all presentations and content for BA 590 - Fall 2022
 --- 
 
-[Example Slides](https://wsumanagementteaching.netlify.app/example/)
-
-### Week 1
+[Erosion](https://wsumanagementteaching.netlify.app/files/MicroTeaching1.pptx)
