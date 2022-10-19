@@ -23,4 +23,4 @@ links:
 ## Links to all presentations and content for BA 590 - Fall 2022
 --- 
 
-[Erosion](https://wsumanagementteaching.netlify.app/files/MicroTeaching1.pptx)
+[Erosion](https://www.adambozman.com/talks/management-teaching-seminar-2022/files/MicroTeaching1.pptx)  
