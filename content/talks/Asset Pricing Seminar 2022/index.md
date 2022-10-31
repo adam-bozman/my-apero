@@ -74,3 +74,18 @@ links:
 [Original Article](https://wsuassetpricing.netlify.app/files/game-on.pdf)
 
 [Github](https://github.com/adam-bozman/wsuassetpricing/tree/main/game-on)
+
+
+### A Theory of Financial Media
+
+[Slide Deck](https://wsuassetpricing.netlify.app/files/a-theory-of-financial-media.pptx)
+
+[Original Article](https://wsuassetpricing.netlify.app/files/a-theory-of-financial-media.pdf)
+
+
+### Female Representation in Academic Finance
+
+[Slide Deck](https://wsuassetpricing.netlify.app/files/female-representation.pptx)
+
+[Original Article](https://wsuassetpricing.netlify.app/files/female-representation.pdf)
+
