@@ -89,3 +89,10 @@ links:
 
 [Original Article](https://wsuassetpricing.netlify.app/files/female-representation.pdf)
 
+
+### Local Journalism under Private Equity Ownership
+
+[Slide Deck](https://wsuassetpricing.netlify.app/files/local-journalism.pptx)
+
+[Original Article](https://wsuassetpricing.netlify.app/files/local-journalism.pdf)
+

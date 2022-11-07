@@ -70,3 +70,8 @@ links:
 [Github](https://github.com/adam-bozman/wsucorporatefinance/tree/main/default-risk)
 
 
+### Female Representation in Academic Finance
+
+[Slide Deck](https://wsucorporatefinance.netlify.app/files/managerial-discretion.pptx)
+
+[Original Article](https://wsuassetpricing.netlify.app/files/managerial-discretion.pdf)
