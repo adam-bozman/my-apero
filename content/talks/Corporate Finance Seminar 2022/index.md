@@ -74,4 +74,4 @@ links:
 
 [Slide Deck](https://wsucorporatefinance.netlify.app/files/managerial-discretion.pptx)
 
-[Original Article](https://wsuassetpricing.netlify.app/files/managerial-discretion.pdf)
+[Original Article](https://wsucorporatefinance.netlify.app/files/managerial-discretion.pdf)
