@@ -75,3 +75,11 @@ links:
 [Slide Deck](https://wsucorporatefinance.netlify.app/files/managerial-discretion.pptx)
 
 [Original Article](https://wsucorporatefinance.netlify.app/files/managerial-discretion.pdf)
+
+
+### Capital Structure and the Informational Role of Debt
+
+[Slide Deck](https://wsucorporatefinance.netlify.app/files/capital-structure-and-informational-debt.pptx)
+
+[Original Article](https://wsucorporatefinance.netlify.app/files/capital-structure-and-informational-debt.pdf)
+
