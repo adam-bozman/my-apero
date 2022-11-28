@@ -96,3 +96,9 @@ links:
 
 [Original Article](https://wsuassetpricing.netlify.app/files/local-journalism.pdf)
 
+
+### Final Literature Review
+
+[Slide Deck](https://www.canva.com/design/DAFTMiO-xMg/ihXyK_tka5hl13KDNcjuXA/view?utm_content=DAFTMiO-xMg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
