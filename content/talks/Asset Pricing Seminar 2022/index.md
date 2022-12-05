@@ -102,3 +102,6 @@ links:
 [Slide Deck](https://www.canva.com/design/DAFTMiO-xMg/ihXyK_tka5hl13KDNcjuXA/view?utm_content=DAFTMiO-xMg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
+### Research Proposal
+
+[Slide Deck](https://www.canva.com/design/DAFTpdqKeEw/BUfSXC9BVpkLxsZCKn29Vw/view?utm_content=DAFTpdqKeEw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
