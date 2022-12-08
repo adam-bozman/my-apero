@@ -83,3 +83,9 @@ links:
 
 [Original Article](https://wsucorporatefinance.netlify.app/files/capital-structure-and-informational-debt.pdf)
 
+
+### Too Much Investment: A Problem with Asymmetric Information
+
+[Slide Deck](https://wsucorporatefinance.netlify.app/files/too-much-investment.pptx)
+
+[Original Article](https://wsucorporatefinance.netlify.app/files/too-much-investment.pdf)
