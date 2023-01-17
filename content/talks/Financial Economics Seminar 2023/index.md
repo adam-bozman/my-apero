@@ -1,0 +1,27 @@
+---
+title: "Financial Economics Seminar"
+subtitle: "Spring 2023 @ WSU"
+excerpt: "Talks included from a doctoral-level financial economics seminar covering advanced topics in financial intermediation, asset pricing, and behavioral finance."
+date: 2023-01-01
+date_end: "2023-05-05"
+show_post_time: false
+event: "rstudio::global(2021)"
+event_url: https://global.rstudio.com
+author: "Adam Bozman"
+location: "Pullman, WA"
+draft: false
+# layout options: single, single-sidebar
+layout: single
+categories:
+- workshop
+links:
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/adam-bozman/wsumanagementteaching
+---
+## Links to all presentations and content for BA 590 - Fall 2022
+--- 
+
+[Thakor - 2020](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/thakor-fintech.pptx)  
+
