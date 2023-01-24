@@ -20,7 +20,7 @@ links:
   name: code
   url: https://github.com/adam-bozman/
 ---
-## Links to all presentations and content for BA 590 - Fall 2022
+## Links to all presentations and content for FIN 596 - Spring 2023
 --- 
 
 [Thakor, 2020](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/thakor-fintech.pptx)  
