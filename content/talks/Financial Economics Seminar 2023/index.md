@@ -18,10 +18,11 @@ links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/adam-bozman/wsumanagementteaching
+  url: https://github.com/adam-bozman/
 ---
 ## Links to all presentations and content for BA 590 - Fall 2022
 --- 
 
-[Thakor - 2020](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/thakor-fintech.pptx)  
+[Thakor, 2020](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/thakor-fintech.pptx)  
 
+[Malmendier et al., 2022](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/malmendier_2022.pptx)
