@@ -20,7 +20,9 @@ links:
   name: code
   url: https://github.com/adam-bozman/
 ---
+
 ## Links to all presentations and content for FIN 596 - Spring 2023
+
 --- 
 
 ### Week 2
