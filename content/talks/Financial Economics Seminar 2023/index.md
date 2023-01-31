@@ -33,4 +33,4 @@ links:
 
 ### Week 4
 
-[Fund Flows & Risk Taking Basics](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/costly-search_tournaments-and-temptations)
+[Fund Flows & Risk Taking Basics](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/costly-search_tournaments-and-temptations.pptx)
