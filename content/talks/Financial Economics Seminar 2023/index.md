@@ -23,6 +23,14 @@ links:
 ## Links to all presentations and content for FIN 596 - Spring 2023
 --- 
 
+### Week 2
+
 [Thakor, 2020](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/thakor-fintech.pptx)  
 
+### Week 3
+
 [Malmendier et al., 2022](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/malmendier_2022.pptx)
+
+### Week 4
+
+[Fund Flows & Risk Taking Basics](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/costly-search_tournaments-and-temptations)
