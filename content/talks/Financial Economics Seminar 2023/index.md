@@ -36,3 +36,7 @@ links:
 ### Week 4
 
 [Fund Flows & Risk Taking Basics](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/costly-search_tournaments-and-temptations.pptx)
+
+### Week 5
+
+[How Active is Your Fund Manager?](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/active-shares.pptx)
