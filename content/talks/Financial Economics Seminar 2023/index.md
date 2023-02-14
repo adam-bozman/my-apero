@@ -40,3 +40,7 @@ links:
 ### Week 5
 
 [How Active is Your Fund Manager?](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/active-shares.pptx)
+
+### Week 6
+
+[Labor Force Demographics and Corporate Innovation](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/derrien-et-al.pptx)
