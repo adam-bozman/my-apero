@@ -44,3 +44,7 @@ links:
 ### Week 6
 
 [Labor Force Demographics and Corporate Innovation](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/derrien-et-al.pptx)
+
+### Week 7
+
+[Price and Probability: Decomposing the Takeover Effects of Anti-Takeover Provisions](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/price-and-probability.pptx)
