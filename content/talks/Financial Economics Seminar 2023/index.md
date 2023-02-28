@@ -51,7 +51,7 @@ links:
 
 ### Week 8
 
-["Disloyal Managers and Shareholders' Wealth" / "How does Shareholder Governance Affect the Cost of Borrowing?"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/atp-cost-of-borrowing_disloyal-managers.pptx)
+["Disloyal Managers and Shareholders' Wealth"/"How does Shareholder Governance Affect the Cost of Borrowing?"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/atp-cost-of-borrowing_disloyal-managers.pptx)
 
 
 
