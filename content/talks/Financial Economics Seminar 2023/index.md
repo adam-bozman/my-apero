@@ -48,3 +48,10 @@ links:
 ### Week 7
 
 [Price and Probability: Decomposing the Takeover Effects of Anti-Takeover Provisions](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/price-and-probability.pptx)
+
+### Week 8
+
+["Disloyal Managers and Shareholders' Wealth" / "How does Shareholder Governance Affect the Cost of Borrowing?"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/atp-cost-of-borrowing_disloyal-managers.pptx)
+
+
+
