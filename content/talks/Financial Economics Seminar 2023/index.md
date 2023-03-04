@@ -25,6 +25,8 @@ links:
 
 --- 
 
+## Dr. Whidbee
+
 ### Week 2
 
 [Thakor, 2020](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/thakor-fintech.pptx)  
@@ -33,6 +35,8 @@ links:
 
 [Malmendier et al., 2022](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/malmendier_2022.pptx)
 
+## Dr. Zhang
+
 ### Week 4
 
 [Fund Flows & Risk Taking Basics](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/costly-search_tournaments-and-temptations.pptx)
@@ -40,6 +44,8 @@ links:
 ### Week 5
 
 [How Active is Your Fund Manager?](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/active-shares.pptx)
+
+## Dr. Yang
 
 ### Week 6
 
@@ -53,5 +59,10 @@ links:
 
 ["Disloyal Managers and Shareholders' Wealth" / "How does Shareholder Governance Affect the Cost of Borrowing?"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/atp-cost-of-borrowing_disloyal-managers.pptx)
 
+## Dr. Fairhurst
+
+### Week 9
+
+["On a Spending Spree: The Real Effects of Heuristics in Managerial Budgets"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/managerial-heuristics.pptx)
 
 
