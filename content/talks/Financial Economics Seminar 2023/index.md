@@ -65,4 +65,6 @@ links:
 
 ["On a Spending Spree: The Real Effects of Heuristics in Managerial Budgets"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/managerial-heuristics.pptx)
 
+### Week 10
 
+["Leasing as a Risk-Sharing Mechanism"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/risk-sharing.pptx)
