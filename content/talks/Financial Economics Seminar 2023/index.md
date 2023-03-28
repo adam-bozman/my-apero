@@ -73,4 +73,4 @@ links:
 
 ["Short-selling with Mergers and Acquisitions"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/short-selling.pptx)
 
-["Emperical Work"](https://emailwsu-my.sharepoint.com/:x:/r/personal/adam_bozman_wsu_edu/Documents/Spring%20%2723/FIN%20596/DJ/Emperics/carsmerg.xlsx?d=w982399a6a45d42b6ba16463701e4f3ef&csf=1&web=1&e=oH0rHM)
+["Emperical Work"](https://emailwsu-my.sharepoint.com/:x:/g/personal/adam_bozman_wsu_edu/EaaZI5hdpLZCuhZGNwHk8-8BWv67Pb6HxQYyQJ-5bEwa3g?e=aKyapI)
