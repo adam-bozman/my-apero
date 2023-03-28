@@ -68,3 +68,9 @@ links:
 ### Week 10
 
 ["Leasing as a Risk-Sharing Mechanism"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/risk-sharing.pptx)
+
+### Week 11
+
+["Short-selling with Mergers and Acquisitions"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/short-selling.pptx)
+
+["Emperical Work"](https://emailwsu-my.sharepoint.com/:x:/r/personal/adam_bozman_wsu_edu/Documents/Spring%20%2723/FIN%20596/DJ/Emperics/carsmerg.xlsx?d=w982399a6a45d42b6ba16463701e4f3ef&csf=1&web=1&e=oH0rHM)
