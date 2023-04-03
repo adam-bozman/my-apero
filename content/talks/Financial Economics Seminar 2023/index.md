@@ -74,3 +74,9 @@ links:
 ["Short-selling with Mergers and Acquisitions"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/short-selling.pptx)
 
 ["Emperical Work"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/carsmerg.xlsx)
+
+## Dr. Paul
+
+### Week 12
+
+["What Causes Merger Waves?"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/merger-waves.pptx)
