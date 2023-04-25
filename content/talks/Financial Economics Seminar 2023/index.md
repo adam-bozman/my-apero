@@ -25,6 +25,12 @@ links:
 
 --- 
 
+# Second Year Proposal
+
+### Week 15
+
+["Heuristics, Communication, and Innovation"](https://www.adambozman.com/talks/financial-economics-seminar-2023/files/Bozman-Research-Proposal-SP23.pptx)
+
 ## Dr. Whidbee
 
 ### Week 2
