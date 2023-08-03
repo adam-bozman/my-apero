@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: My Blog
 description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
