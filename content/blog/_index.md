@@ -1,5 +1,4 @@
 ---
-=======
 title: A Blog
 description: |
   This is a fully featured blog that supports categories, 
