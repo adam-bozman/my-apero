@@ -125,20 +125,10 @@ enableEmoji = true
     url = "/data/"
     weight = 4
   [[menu.header]]
-    name = "Teaching"
-    title = "My Teaching"
-    url = "/Teaching/"
-    weight = 5
-  [[menu.header]]
     name = "Talks"
     title = "My Talks"
     url = "/talks/"
     weight = 5
-  [[menu.header]]
-    name = "Coding"
-    title = "My Coding"
-    url = "/coding/"
-    weight = 6
     
   # Configure footer  
   [[menu.footer]]
