@@ -23,7 +23,7 @@ The Wharton Research Data Services (WRDS) provides comprehensive data sets for f
 
 **Why:** We need to have the `wrds` package installed in our Python environment to establish a connection to WRDS and retrieve data from it.
 
-**Note:** The `!` at the beginning of the command allows you to run shell commands directly from a Jupyter notebook. The `-q` flag stands for "quiet", which means it will suppress the usual output from the pip command and only show errors if any.
+**Note:** If you are working from a Jupyter notebook, you may need to preface your command with `!` at the beginning, `!pip install wrds -q`. This allows you to run shell commands directly from a Jupyter notebook. The `-q` flag stands for "quiet", which means it will suppress the usual output from the pip command and only show errors, if any.
 
 ```python
 pip install wrds -q
