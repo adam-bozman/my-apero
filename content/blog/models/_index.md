@@ -23,7 +23,7 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: Financial Modeling Tutorials  # name your series
+  series: Financial Modeling Resources  # name your series
   author: Adam Bozman
   show_author_byline: true
   show_post_date: true
