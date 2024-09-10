@@ -1,7 +1,7 @@
 ---
 title: "Adam Bozman"
 subtitle: "Finance PhD and AI Enthusiast @ WSU"
-description: "I am a doctoral candidate in the [Carson College of Business](https://directory.business.wsu.edu/Directory/Profile/adam.bozman/) at [Washington State University](https://wsu.edu/) where my research focuses on empirical corporate finance, behavioral topics, big data, and some emerging technologies.  My goal is to aid in the understanding of new technologies as well as individual biases, so we can create and appropriately regulate a more efficient marketplace."
+description: "I am a doctoral candidate in the [Carson College of Business](https://directory.business.wsu.edu/Directory/Profile/adam.bozman/) at [Washington State University](https://wsu.edu/) where my research focuses on empirical corporate finance, big data, and emerging technologies.  My goal is to aid in the understanding of new technologies as well as individual biases, so we can create and regulate a more efficient marketplace."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/moscow.jpg
