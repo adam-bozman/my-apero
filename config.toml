@@ -90,9 +90,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://twitter.com/adam_bozman"
   [[params.social]]
-      icon      = "r-project" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.shinyapps.io/"
+      icon      = "envelope" # icon for email
+      icon_pack = "fas"      # use 'fas' for solid icons (like the envelope)
+      url       = "mailto:adam.bozman@wsu.edu"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
